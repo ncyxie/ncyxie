@@ -1,5 +1,5 @@
 ### Hi, I'm ncyxie :) 👋
 
-I am a student from Lithuania, who is exploring and learning to develop random stuff.
+I am a student from Lithuania, embarking on a journey of exploration and learning to create various projects. 
 
-Currently developing applications written in C++ language and based on Qt framework.
+Currently, my focus is on developing applications using the C++ programming language.
